@@ -1,0 +1,186 @@
+{
+  "categorias": [
+    {
+      "titulo": "FPS",
+      "link": "https://www.youtube.com/watch?v=TWy2rxyZLrE",
+      "cor": "#b6462f",
+      "link_extra": {
+        "text": "Tudo FPS",
+        "url": "https://www.youtube.com/watch?v=LgW-CzTgE70"
+      },
+      "videos": [
+        {
+          "titulo": "Gameplay Halo",
+          "url": "https://www.youtube.com/watch?v=HZtc5-syeAk"
+          
+        },
+        {
+          "titulo": "Warzone Gameplay",
+          "url": "https://www.youtube.com/watch?v=LgW-CzTgE70"
+        },
+        {
+          "titulo": "PRIMEIRO TRAILER OFICIAL DO JOGO BRASILEIRO - RIO: Raised in Oblivion",
+          "url": "https://www.youtube.com/watch?v=4O-V5G8J5lE&t=13s"
+        },
+        {
+          "titulo": "Rainbow Six Siege - O BRASIL É CAMPEÃO MUNDIAL!!",
+          "url": "https://www.youtube.com/watch?v=nEwr39TwOdU"
+        },
+        {
+          "titulo": "Counter-Strike: Global Offensive - Assault Gameplay",
+          "url": "https://www.youtube.com/watch?v=gWpE3NZPEkM"
+        },
+        {
+          "titulo": "CS:GO Sk Gaming vs Astralis, Blast Pro Series FINAL ",
+          "url": "https://www.youtube.com/watch?v=MMMA3mByweo"
+        },
+        {
+          "titulo": "Valorant full match gameplay",
+          "url": "https://www.youtube.com/watch?v=OhDM6_bFYGc"
+        },
+        {
+          "titulo": "Valorant: TOP 50 NEW INSANE VIRAL PLAYS - 300IQ Tricks & Outplays",
+          "url": "https://www.youtube.com/watch?v=55fpElD7eRw"
+        }        
+      ]
+    },
+    {
+      "titulo": "MOBA",
+      "cor": "#b6462f",
+      "link_extra": {
+        "text": "Tudo sobre MOBA",
+        "url": "https://www.youtube.com/watch?v=zF5Ddo9JdpY"
+      },
+      "videos": [
+        {
+          "titulo": " Animação da Temporada 2020 - League of Legends",
+          "url": "https://www.youtube.com/watch?v=aR-KAldshAE"
+        },
+        {
+          "titulo": "OG vs VIKIN.GG - CEB IS BACK! - AMD SAPPHIRE OGA DOTA PIT 2 DOTA 2",
+          "url": "https://www.youtube.com/watch?v=G63Awyn4lqM"
+        },
+        {
+          "titulo": "TRYING OUT *STRIFE* | MOBA | 1ST GAME",
+          "url": "https://www.youtube.com/watch?v=69lCsNej8Yk"
+        },
+        {
+          "titulo": "SMITE - As HABILIDADES do TSUKUYOMI!",
+          "url": "https://www.youtube.com/watch?v=Xf_5M8DcCr0"
+        }, 
+        {
+          "titulo": "Heroes of Newerth - Grátis para jogar!",
+          "url": "https://www.youtube.com/watch?v=NV8aPRBRztk"
+        }
+      ]
+    },
+    {
+      "titulo": "RTS",
+      "cor": "#b6462f",
+      "link_extra": {
+        "text": "Tudo sobre RTS",
+        "url": "https://www.youtube.com/watch?v=qtDfA8gU9ik"
+      },
+      "videos": [
+        {
+          "titulo": "Warcraft",
+          "url": "https://www.youtube.com/watch?v=qtDfA8gU9ik"
+        },
+        {
+          "titulo": "Age of Empires?",
+          "url": "https://www.youtube.com/watch?v=QFlVNtGJVDU"
+        },
+        {
+          "titulo": "A Year Of Rain - Official Release Trailer",
+          "url": "https://www.youtube.com/watch?v=Q4skX5XVazM"
+        },
+        {
+          "titulo": "AI War 2 | Overview, Impressions and Discussion",
+          "url": "https://www.youtube.com/watch?v=Z6Maro9aNYw"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes baseados em games",
+      "cor": "#b6462f",
+      "videos": [
+        {
+          "titulo": "Halo O filme",
+          "url": "https://www.youtube.com/watch?v=32ISq47zUB0"
+        },
+        {
+          "titulo": "Warcraft O filme",
+          "url": "https://www.youtube.com/watch?v=qEkV11xnxDs"
+        },
+        {
+          "titulo": "Need For Speed O filme",
+          "url": "https://www.youtube.com/watch?v=u3wtVI-aJuw"
+        },
+        {
+          "titulo": "Prince of Persia O filme",
+          "url": "https://www.youtube.com/watch?v=bZ7Li5w2I-k"
+        }
+      ]
+    },
+    {
+      "titulo": "Tecnologia",
+      "cor": "#b6462f",
+      "link_extra": {
+        "text": "O que o futuro da tecnologia reserva para os games?",
+        "url": "https://www.youtube.com/watch?v=dq2PCHXcTMk"
+      },
+      "videos": [
+        {
+          "titulo": "Entenda: 2020 é o ano da Realidade Virtual? – TecMundo",
+          "url": "https://www.youtube.com/watch?v=dq2PCHXcTMk"
+        },
+        {
+          "titulo": "A história da Realidade Aumentada - TecMundo",
+          "url": "https://www.youtube.com/watch?v=ZC1rIIu9ni4"
+        },
+        {
+          "titulo": "ESTEIRA PERMITE ANDAR EM JOGOS DE REALIDADE VIRTUAL",
+          "url": "https://www.youtube.com/watch?v=TF1sy-6zzbw"
+        },
+        {
+          "titulo": "Entenda a Holografia",
+          "url": "https://www.youtube.com/watch?v=gck7tElaRe4"
+        },
+        {
+          "titulo": "Holografia (10-10-2015)",
+          "url": "https://www.youtube.com/watch?v=EC5RSjLDv8A"
+        }
+      ]
+    },
+    {
+      "titulo": "Em Alta",
+      "cor": "#b6462f",
+      "link_extra": {
+        "text": "Saiba os games que estão em alta",
+        "url": "https://www.youtube.com/watch?v=v5J0Vo_iVs8"
+      },
+      "videos": [
+        {
+          "titulo": "The Last of Us Part II - Trailer de Anúncio [LEGENDADO PT-BR]",
+          "url": "https://www.youtube.com/watch?v=v5J0Vo_iVs8"
+        },
+        {
+          "titulo": "Cyberpunk 2077 • Trailer Legendado",
+          "url": "https://www.youtube.com/watch?v=DiqWXwpRV7Y"
+        },
+        {
+          "titulo": "Assassin's Creed Valhalla: Estreia Mundial do Trailer Cinemático",
+          "url": "https://www.youtube.com/watch?v=TUbgBVTD7VI"
+        },
+        {
+          "titulo": "Ghost of Tsushima - E3 2018 Gameplay Debut | PS4",
+          "url": "https://www.youtube.com/watch?v=kSAvzeopPC8&has_verified=1"
+        },
+        {
+          "titulo": "Death Stranding - Launch Trailer | PS4",
+          "url": "https://www.youtube.com/watch?v=tCI396HyhbQ&has_verified=1"
+        }
+      ]
+    }
+  ]
+}
