@@ -14,13 +14,20 @@ export const VideoCardContainer = styled.a`
   background-size: cover;
   background-position: center;
   border-radius: 10px;
+  
   position: relative;
   display: flex;
   align-items: flex-end;
-  padding: 16px;
+  padding: 20px;
+  
+  
 
   transition: opacity .3s;
-  &:hover,
+  &:hover{
+    transform: scale(1.2);
+    margin-right: 25px;
+    margin-left: 25px;
+  }
   &:focus {
     opacity: .5;
   }
