@@ -1,0 +1,18 @@
+{
+    "categorias": [
+        {
+          "id": 1,
+          "nome": "FPS",
+          "descricao": "Uma categoria show",
+          "cor": "#b54e2f"
+        },  
+        {   
+          "id": 2,
+          "nome": "MOBA",
+          "descricao": "outra categoria show",
+          "cor": "#b54e2f"
+               
+        }
+        
+    ]
+}
