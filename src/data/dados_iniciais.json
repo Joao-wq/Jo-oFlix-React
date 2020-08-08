@@ -5,7 +5,7 @@
       "link": "https://www.youtube.com/watch?v=TWy2rxyZLrE",
       "cor": "#b6462f",
       "link_extra": {
-        "text": "Tudo FPS",
+        "text": "Tudo sobre FPS",
         "url": "https://www.youtube.com/watch?v=LgW-CzTgE70"
       },
       "videos": [
@@ -101,8 +101,12 @@
       ]
     },
     {
-      "titulo": "Filmes baseados em games",
+      "titulo": "Filmes",
       "cor": "#b6462f",
+      "link_extra": {
+        "text": "Filmes baseados em games",
+        "url": "https://www.youtube.com/watch?v=TpbBd7L4V6o"
+      },
       "videos": [
         {
           "titulo": "Halo O filme",

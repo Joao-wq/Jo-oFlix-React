@@ -1,18 +1,309 @@
 {
-    "categorias": [
-        {
-          "id": 1,
-          "nome": "FPS",
-          "descricao": "Uma categoria show",
-          "cor": "#b54e2f"
-        },  
-        {   
-          "id": 2,
-          "nome": "MOBA",
-          "descricao": "outra categoria show",
-          "cor": "#b54e2f"
-               
-        }
-        
-    ]
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "FPS",
+      "cor": "#b54e2f",
+      "link extra": {
+        "text": "Gameplay Halo",
+        "url": "https://www.youtube.com/watch?v=HZtc5-syeAk"
+      }
+    },
+    {
+      "id": 2,
+      "titulo": "MOBA",
+      "cor": "#b54e2f",
+      "link_extra": {
+        "text": "Tudo sobre MOBA",
+        "url": "https://www.youtube.com/watch?v=zF5Ddo9JdpY"
+      }
+    },
+    {
+      "id": 3,
+      "titulo": "RTS",
+      "cor": "#b54e2f",
+      "link extra": {
+        "text": "Trailer de World of Warcraft: Shadowlands",
+        "url": "https://www.youtube.com/watch?v=qtDfA8gU9ik"
+      }
+    },
+    {
+      "id": 4,
+      "titulo": "Filmes baseados em games",
+      "cor": "#b54e2f",
+      "link extra": {
+        "text": "Melhores filmes baseados em games",
+        "url": "https://www.youtube.com/watch?v=TpbBd7L4V6o"
+      }
+    },
+    {
+      "id": 5,
+      "titulo": "Tecnologia",
+      "cor": "#b54e2f",
+      "link extra": {
+        "text": "Entenda: 2020 é o ano da Realidade Virtual? – TecMundo",
+        "url": "https://www.youtube.com/watch?v=dq2PCHXcTMk"
+      }
+    },
+    {
+      "id": 6,
+      "titulo": "Em Alta",
+      "cor": "#b54e2f",
+      "link extra": {
+        "text": "The Last of Us Part II - Trailer de Anúncio [LEGENDADO PT-BR]",
+        "url": "https://www.youtube.com/watch?v=v5J0Vo_iVs8"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Gameplay Halo",
+      "url": "https://www.youtube.com/watch?v=HZtc5-syeAk"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "PRIMEIRO TRAILER OFICIAL DO JOGO BRASILEIRO - RIO: Raised in Oblivion",
+      "url": "https://www.youtube.com/watch?v=4O-V5G8J5lE&t=13s"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Rainbow Six Siege - O BRASIL É CAMPEÃO MUNDIAL!! (Homenagem a Team Liquid)",
+      "url": "https://www.youtube.com/watch?v=nEwr39TwOdU"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Counter-Strike: Global Offensive - Assault Gameplay",
+      "url": "https://www.youtube.com/watch?v=gWpE3NZPEkM"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "CS:GO Sk Gaming vs Astralis, Blast Pro Series FINAL",
+      "url": "https://www.youtube.com/watch?v=MMMA3mByweo"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Valorant full match gameplay",
+      "url": "https://www.youtube.com/watch?v=OhDM6_bFYGc"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Valorant: TOP 50 NEW INSANE VIRAL PLAYS - 300IQ Tricks & Outplays",
+      "url": "https://www.youtube.com/watch?v=55fpElD7eRw"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "Tudo sobre MOBA",
+      "url": "https://www.youtube.com/watch?v=zF5Ddo9JdpY"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Animação da Temporada 2020 - League of Legends",
+      "url": "https://www.youtube.com/watch?v=aR-KAldshAE"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "OG vs VIKIN.GG - CEB IS BACK! - AMD SAPPHIRE OGA DOTA PIT 2 DOTA 2",
+      "url": "https://www.youtube.com/watch?v=G63Awyn4lqM"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "TRYING OUT *STRIFE* | MOBA | 1ST GAME",
+      "url": "https://www.youtube.com/watch?v=69lCsNej8Yk"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "SMITE - As HABILIDADES do TSUKUYOMI!",
+      "url": "https://www.youtube.com/watch?v=Xf_5M8DcCr0"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "Heroes of Newerth - Grátis para jogar!",
+      "url": "https://www.youtube.com/watch?v=NV8aPRBRztk"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "Tudo sobre RTS",
+      "url": "https://www.youtube.com/watch?v=NPk14UoQvnw"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "Warcraft",
+      "url": "https://www.youtube.com/watch?v=qtDfA8gU9ik"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "Age of Empires?",
+      "url": "https://www.youtube.com/watch?v=QFlVNtGJVDU"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "A Year Of Rain - Official Release Trailer",
+      "url": "https://www.youtube.com/watch?v=Q4skX5XVazM"
+    },
+    {
+      "id": 18,
+      "categoriaId": 3,
+      "titulo": "AI War 2 | Overview, Impressions and Discussion",
+      "url": "https://www.youtube.com/watch?v=Z6Maro9aNYw"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "Filmes baseados em games",
+      "url": "https://www.youtube.com/watch?v=TpbBd7L4V6o"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "Halo O filme",
+      "url": "https://www.youtube.com/watch?v=32ISq47zUB0"
+    },
+    {
+      "id": 21,
+      "categoriaId": 4,
+      "titulo": "Warcraft O filme",
+      "url": "https://www.youtube.com/watch?v=qEkV11xnxDs"
+    },
+    {
+      "id": 22,
+      "categoriaId": 4,
+      "titulo": "Need For Speed O filme",
+      "url": "https://www.youtube.com/watch?v=u3wtVI-aJuw"
+    },
+    {
+      "id": 23,
+      "categoriaId": 4,
+      "titulo": "Prince of Persia O filme",
+      "url": "https://www.youtube.com/watch?v=bZ7Li5w2I-k"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "text": "O que o futuro da tecnologia reserva para os games?",
+      "url": "https://www.youtube.com/watch?v=dq2PCHXcTMk"
+    },
+    {
+      "id": 25,
+      "categoriaId": 5,
+      "titulo": "Entenda: 2020 é o ano da Realidade Virtual? – TecMundo",
+      "url": "https://www.youtube.com/watch?v=dq2PCHXcTMk"
+    },
+    {
+      "id": 26,
+      "categoriaId": 5,
+      "titulo": "A história da Realidade Aumentada - TecMundo",
+      "url": "https://www.youtube.com/watch?v=ZC1rIIu9ni4"
+    },
+    {
+      "id": 27,
+      "categoriaId": 5,
+      "titulo": "ESTEIRA PERMITE ANDAR EM JOGOS DE REALIDADE VIRTUAL",
+      "url": "https://www.youtube.com/watch?v=TF1sy-6zzbw"
+    },
+    {
+      "id": 28,
+      "categoriaId": 5,
+      "titulo": "Entenda a Holografia",
+      "url": "https://www.youtube.com/watch?v=gck7tElaRe4"
+    },
+    {
+      "id": 29,
+      "categoriaId": 5,
+      "titulo": "Holografia (10-10-2015)",
+      "url": "https://www.youtube.com/watch?v=EC5RSjLDv8A"
+    },
+    {
+      "id": 30,
+      "categoriaId": 6,
+      "titulo": "Saiba os games que estão em alta",
+      "url": "https://www.youtube.com/watch?v=v5J0Vo_iVs8"
+    },
+    {
+      "id": 31,
+      "categoriaId": 6,
+      "titulo": "The Last of Us Part II - Trailer de Anúncio [LEGENDADO PT-BR]",
+      "url": "https://www.youtube.com/watch?v=v5J0Vo_iVs8"
+    },
+    {
+      "id": 32,
+      "categoriaId": 6,
+      "titulo": "Cyberpunk 2077 • Trailer Legendado",
+      "url": "https://www.youtube.com/watch?v=DiqWXwpRV7Y"
+    },
+    {
+      "id": 33,
+      "categoriaId": 6,
+      "titulo": "Assassin's Creed Valhalla: Estreia Mundial do Trailer Cinemático",
+      "url": "https://www.youtube.com/watch?v=TUbgBVTD7VI"
+    },
+    {
+      "id": 34,
+      "categoriaId": 6,
+      "titulo": "Ghost of Tsushima - E3 2018 Gameplay Debut | PS4",
+      "url": "https://www.youtube.com/watch?v=kSAvzeopPC8&has_verified=1"
+    },
+    {
+      "id": 35,
+      "categoriaId": 6,
+      "titulo": "Tudo sobre RTS",
+      "url": "https://www.youtube.com/watch?v=qtDfA8gU9ik"
+    },
+    {
+      "id": 36,
+      "categoriaId": 6,
+      "titulo": "Death Stranding - Launch Trailer | PS4",
+      "url": "https://www.youtube.com/watch?v=tCI396HyhbQ&has_verified=1"
+    },
+    {
+      "titulo": "dfdf",
+      "url": "https://www.youtube.com/watch?v=jOAU81jdi-cfdf",
+      "id": 37
+    },
+    {
+      "titulo": "Video padrão",
+      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
+      "id": 38
+    },
+    {
+      "titulo": "",
+      "url": "",
+      "id": 39
+    },
+    {
+      "titulo": "EU",
+      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
+      "categoriaId": 2,
+      "id": 40
+    },
+    {
+      "titulo": "ff",
+      "url": "https://youtu.be/HZtc5-syeAk",
+      "categoriaId": 2,
+      "id": 41
+    },
+    {
+      "titulo": "eu",
+      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
+      "categoriaId": 2,
+      "id": 42
+    }
+  ]
 }
