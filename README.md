@@ -7,7 +7,7 @@
 </h1>
 
 <h1>
-    <img src="/src/assets/joaoflixApp">
+    <img src="src/assets/joaoflixApp.gif">
 </h1>
 
 <h1>
@@ -22,8 +22,8 @@ O projeto Joãoflix reuni videos de games e tecnologias para que consigam encont
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-ReactJS
-JSON Server
-React Route
+- ReactJS
+- JSON Server
+- React Route
 
 ## Desenvolvido por João Victor
