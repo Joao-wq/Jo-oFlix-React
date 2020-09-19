@@ -7,7 +7,7 @@
 </h1>
 
 <h1>
-    <img="/src/assets/joaoflixApp">
+    <img src="/src/assets/joaoflixApp">
 </h1>
 
 <h1>
