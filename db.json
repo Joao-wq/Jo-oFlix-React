@@ -194,12 +194,7 @@
       "titulo": "Prince of Persia O filme",
       "url": "https://www.youtube.com/watch?v=bZ7Li5w2I-k"
     },
-    {
-      "id": 24,
-      "categoriaId": 5,
-      "text": "O que o futuro da tecnologia reserva para os games?",
-      "url": "https://www.youtube.com/watch?v=dq2PCHXcTMk"
-    },
+    
     {
       "id": 25,
       "categoriaId": 5,
@@ -230,12 +225,7 @@
       "titulo": "Holografia (10-10-2015)",
       "url": "https://www.youtube.com/watch?v=EC5RSjLDv8A"
     },
-    {
-      "id": 30,
-      "categoriaId": 6,
-      "titulo": "Saiba os games que estão em alta",
-      "url": "https://www.youtube.com/watch?v=v5J0Vo_iVs8"
-    },
+    
     {
       "id": 31,
       "categoriaId": 6,
@@ -286,24 +276,8 @@
       "titulo": "",
       "url": "",
       "id": 39
-    },
-    {
-      "titulo": "EU",
-      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
-      "categoriaId": 2,
-      "id": 40
-    },
-    {
-      "titulo": "ff",
-      "url": "https://youtu.be/HZtc5-syeAk",
-      "categoriaId": 2,
-      "id": 41
-    },
-    {
-      "titulo": "eu",
-      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
-      "categoriaId": 2,
-      "id": 42
     }
+    
+ 
   ]
 }
