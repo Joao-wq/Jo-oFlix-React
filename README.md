@@ -2,8 +2,12 @@
     <img src="https://ik.imagekit.io/lkgbmsinhh/tiulo_joaoflix_7NDJ_9FH6.png">
 </h1>
 
+<h1 align="center">
+    JoãoFlix-React
+</h1>
+
 <h1>
-    <img="src/assets/joaoflixApp.gif">
+    <img="/src/assets/joaoflixApp">
 </h1>
 
 <h1>
