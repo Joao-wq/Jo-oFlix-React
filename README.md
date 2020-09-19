@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img="https://ik.imagekit.io/lkgbmsinhh/tiulo_joaoflix_7NDJ_9FH6.png">
+    <img src="https://ik.imagekit.io/lkgbmsinhh/tiulo_joaoflix_7NDJ_9FH6.png">
 </h1>
 
 <h1>
@@ -7,7 +7,7 @@
 </h1>
 
 <h1>
-    <img="https://ik.imagekit.io/lkgbmsinhh/cadastrojoaoflix_qZkMTtgyY.png">
+    <img src="https://ik.imagekit.io/lkgbmsinhh/cadastrojoaoflix_qZkMTtgyY.png">
 </h1>
 
 ## :speech_balloon: Sobre 
